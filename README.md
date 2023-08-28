@@ -30,8 +30,7 @@
 <br>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<br> 
+<br>
    
   <h3 align="center">🌈 Follow Me </h3>
   <br>
