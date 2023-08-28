@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer&text=Welcome%20profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer&text=Hello!%20I'm%20gitjae&fontSize=50)
   
 ####  :wave: Welcome my github profile !
 
@@ -8,7 +8,7 @@
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: [STACK] Once I've Used 
   
  <br/>
   
@@ -25,31 +25,17 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python &logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
 <br>
 <br>
 <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br> 
    
   <h3 align="center">🌈 Follow Me </h3>
   <br>
 <p align="center">
-  <a href="mailto:juntu09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=juntu09@gmail.com"/></a>
+  <a href="mailto:dlrbwo2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlrbwo2022@gmail.com"/></a>
 </p>  
 </div>
-
-
-<!--
-**gitjae/gitjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
