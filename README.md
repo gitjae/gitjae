@@ -6,7 +6,7 @@
 
   
  <br/>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitjae&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitjae&show_icons=true&theme=radical)
  <br/>
   
 ####  :clipboard: [STACK] Once I've Used 
